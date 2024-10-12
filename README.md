@@ -19,28 +19,11 @@ The goal of this project is to develop a scalable data platform for an advertisi
 - **Visualization:**
   - Looker
 
-
-
-## Features
-- Data Ingestion with Google Cloud Pub/Sub
-- Transformation and Curation with dbt
-- API and Microservice Development with FastAPI
-- A/B Testing with Python (SciPy)
-- Forecasting with TensorFlow
-- Visualization in Looker
-
-## Setup Instructions
-1. Clone the repository.
-2. Set up Google Cloud credentials.
-3. Install Python dependencies: `pip install -r requirements.txt`
-4. Deploy the FastAPI app: `uvicorn api.main:app --reload`
 - **Machine Learning Libraries:**
   - Scikit-learn, Pandas, TensorFlow
 
 - **Data Quality:**
   - Great Expectations
-
-
 
 
 ## Project Components
@@ -57,6 +40,21 @@ The goal of this project is to develop a scalable data platform for an advertisi
 4. **A/B Testing Analysis:**  
    Perform A/B testing on experimental and control groups to measure campaign effectiveness.
 
+
+
+## Features
+- Data Ingestion with Google Cloud Pub/Sub
+- Transformation and Curation with dbt
+- API and Microservice Development with FastAPI
+- A/B Testing with Python (SciPy)
+- Forecasting with TensorFlow
+- Visualization in Looker
+
+## Setup Instructions
+1. Clone the repository.
+2. Set up Google Cloud credentials.
+3. Install Python dependencies: `pip install -r requirements.txt`
+4. Deploy the FastAPI app: `uvicorn api.main:app --reload`
 5. **Forecasting Campaign Performance:**  
    Build predictive models to forecast future campaign performance using **Python** and **scikit-learn**.
 
