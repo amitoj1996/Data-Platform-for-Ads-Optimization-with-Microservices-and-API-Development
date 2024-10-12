@@ -1,1 +1,3 @@
 # Data-Platform-for-Ads-Optimization-with-Microservices-and-API-Development
+
+The goal of this project is to develop a scalable data platform for an advertising business to optimize campaign performance. The platform will handle ads data ingestion, transformation, curation, and distribution, providing real-time metrics through APIs and dashboards for A/B testing, forecasting, and performance analysis.
